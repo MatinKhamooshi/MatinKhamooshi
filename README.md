@@ -8,5 +8,5 @@ let age = currentYear - birthYear;
 
 console.log(`I\'m ${name} ${family}, ${age} years old :\)`);
 
-// I'm Matin Khamooshi, xx year old :)
+// I'm Matin Khamooshi, xx years old :)
 ```
