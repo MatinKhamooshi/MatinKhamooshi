@@ -10,7 +10,5 @@ console.log(`I\'m ${name} ${family}, ${age} years old :\)`);
 
 // I'm Matin Khamooshi, xx years old :)
 ```
-```HTML
-<div>
-  <a href="https://matinkhamooshi.ir/" target="_blank">Check some of my portfolios.</a>
-</div>
+
+[Check some of my portfolios](https://matinkhamooshi.ir/)
